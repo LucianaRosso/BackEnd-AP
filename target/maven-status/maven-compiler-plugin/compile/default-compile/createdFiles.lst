@@ -9,6 +9,7 @@ com\portfolio\lrr\Entity\Persona.class
 com\portfolio\lrr\Repository\Rhys.class
 com\portfolio\lrr\Security\jwt\JwtTokenFilter.class
 com\portfolio\lrr\Dto\dtoHys.class
+com\portfolio\lrr\WebConfig.class
 com\portfolio\lrr\Security\Service\UserDetailsImpl.class
 com\portfolio\lrr\LrrApplication.class
 com\portfolio\lrr\Security\Dto\JwtDto.class
